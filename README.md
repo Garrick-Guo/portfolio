@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi I'm Junhao Guo, a senior student at CSU-Fullerton with CWID 885121806. This portfolio showcases my work and skills.
+Hi I'm Junhao Guo, a senior student at CSU-Fullerton. This portfolio showcases my work and skills.
 
 ## Features
 
